@@ -1,7 +1,7 @@
 install:
 	brew install --build-from-source ./Formula/mantui.rb
 
-version = 0.1.0
+version = 0.1.1
 
 download:
 	curl -LO https://github.com/preiter93/mantui/releases/download/v$(version)/mantui-$(version)-aarch64-apple-darwin.tar.gz
