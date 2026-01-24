@@ -10,7 +10,7 @@ class Mantui < Formula
       url "https://github.com/preiter93/mantui/releases/download/v0.1.1/mantui-0.1.1-aarch64-apple-darwin.tar.gz"
       sha256 "261427d8a29227765855dba85367d4ea84c872d46dcaa40ab3140a23182d7fa2"
     else
-      rl "https://github.com/preiter93/mantui/releases/download/v0.1.1/mantui-0.1.1-x86_64-apple-darwin.tar.gz"
+      url "https://github.com/preiter93/mantui/releases/download/v0.1.1/mantui-0.1.1-x86_64-apple-darwin.tar.gz"
       sha256 "65c63741f5a23c4451004a5bcf7367b2d9f5913a1b9059bc976e9ccb8669d659"
     end
   end
